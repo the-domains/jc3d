@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JC3D]]></title>
+        <description><![CDATA[JC3D]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 May 2016 21:38:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[More Filament]]></title>
+            <description><![CDATA[<article><h1>More Filament</h1><p>Hatchbox PLA has performed very well  with my Flashforge Finder.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b925d9ab-f07b-467a-81e0-f56add2efa39.jpg"></article>]]></description>
+            <link>undefinedmore-filament/index.html</link>
+            <guid isPermaLink="false">9d62e980-9c73-415e-b6b1-fcc0011ae994</guid>
+            <pubDate>Sun, 22 May 2016 21:38:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
