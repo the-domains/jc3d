@@ -1,14 +1,26 @@
-layout_spectrum: 0.8188444434199482
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7437310519162565
 color:
+  saturation: 0.363905202364549
   brandStrength: 0.6526126214303076
-  lightness: 0.6394026770722121
-  saturation: 0.36390520236454904
-  rhythmicContrast: 0.14148761960677803
+  rhythmicContrast: 0.141487619606778
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  lightness: 0.6394026770722121
+layout_spectrum: 0.2615467
 name: JC3D
